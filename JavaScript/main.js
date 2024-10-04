@@ -1,0 +1,1 @@
+alert('Hello Word!! Esse é uma revisão sobre JavaScript')
